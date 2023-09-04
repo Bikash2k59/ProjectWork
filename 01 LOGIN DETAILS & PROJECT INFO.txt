@@ -1,0 +1,13 @@
+
+
+**Database Name: invoicemgsys**
+
+**Developed by Bikash Bohara**
+
+
+**Login Details**
+
+Username: admin
+Password: Password@123
+
+
